@@ -22,9 +22,7 @@ O **Startup Venom** é uma aplicação que visa facilitar o gerenciamento das op
 
 ## 🚀 Tecnologias Utilizadas
 
-- 🧠 **C#**
-- 🌐 **.NET Core / ASP.NET** (dependendo da versão utilizada)
-- 🗃️ Banco de dados (especificar qual, se necessário)
+- 🧠 **C**
 
 ---
 
